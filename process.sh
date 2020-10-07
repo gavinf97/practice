@@ -1,5 +1,5 @@
-#!/bin/bash
-#ddfdsfdssfd
+scssc c c  c#!/bin/bash
+#ddfdsfdssfdfev
 # Download bam files and call peaks.
 
 ENCODE=https://www.encodeproject.org/files
